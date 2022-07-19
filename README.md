@@ -2,8 +2,8 @@
 
 - Graduanda em Sistemas para internet na UNICAP 😎
 - Estudante de programação (html|css|javascript|react) 👩🏽‍💻
-- Apaixonada por tecnologia e front end ✨
-- Estudando Javascript 🧡
+- Apaixonada por tecnologia ✨
+- Estudando Javascript e React🧡
 
 <div>
   <a href ="https://beacons.al/GeovanaMaria">
